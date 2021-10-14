@@ -15,14 +15,14 @@ Initial state: <br>
 
 3, 2 , 1
 
-6, 7  _}
+6, 7,  _}
 
 Goal state: <br>
 {1, 2, 3
 
 4, 5 , 6
 
-7, 8  _}
+7, 8,  _}
 
 The output contains a several details:
 
