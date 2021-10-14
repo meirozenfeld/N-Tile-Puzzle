@@ -10,14 +10,14 @@ There is an input file that contains the details of the game: Start mode, end mo
 
 For example-
 
-Initial state:
+Initial state: <br>
 {4, 5 8
 
 3, 2 , 1
 
 6, 7 }
 
-Goal state:
+Goal state: <br>
 
 {1, 2, 3
 
